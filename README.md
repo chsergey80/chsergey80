@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @chsergey80
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there! 👋
 
-<!---
-chsergey80/chsergey80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I completed a web-development course at Practicum by Yandex
+
+👯 I am looking for a job as a Frontend developer
+
+📫 How to reach me:
+
+    chasovnikovsn@gmail.com
+    [Telegram] (https://t.me/sergeyfromrussia)
+
+My skill set 💻
+  HTML,
+  CSS,
+  JavaScript,
+  Figma.
+  
+I study
+  React.js,
+  Node.js,
+  Express.js,  
+  Webpack,  
+  REST API.
