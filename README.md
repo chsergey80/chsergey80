@@ -1,23 +1,30 @@
-# Hi there! 👋
+## Hi there! 👋
 
-🔭 I completed a web-development course at Practicum by Yandex
+🔭 I completed a web-development course at Practicum by Yandex <br />
 
-👯 I am looking for a job as a Frontend developer
+👯 I am looking for a job as a Frontend developer <br />
 
-# 📫 How to reach me:
+## 📫 How to reach me:
 
-* chasovnikovsn@gmail.com
-* https://t.me/sergeyfromrussia
+* chasovnikovsn@gmail.com <br />
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/sergeyfromrussia)
+![](https://img.shields.io/badge/E--mail-chasovnikovsn@gmail.com-orange?style=for-the-badge&logo=appveyo)
+![](https://www.codewars.com/users/chsergey80/badges/small)
+<br />
 
-# My skill set 💻
+## My skill set 💻
 *  HTML,
 *  CSS,
 *  JavaScript,
 *  Figma.
   
-# I study
+## I study
 *  React.js,
 *  Node.js,
 *  Express.js,  
 *  Webpack,  
 *  REST API.
+
+## Моя активность
+[![GitHub Streak](https://streak-stats.demolab.com?user=chsergey80&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chsergey80&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
