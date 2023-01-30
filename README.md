@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-🔭 I I am studying a web-development course at Practicum by Yandex <br />
+🔭 I am studying a web-development course at Practicum by Yandex <br />
 
 👯 I am looking for a job as a Frontend developer <br />
 
