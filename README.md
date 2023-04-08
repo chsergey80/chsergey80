@@ -7,9 +7,9 @@
 ## 📫 How to reach me:
 
 * chasovnikovsn@gmail.com <br />
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/sergeyfromrussia)
-![](https://img.shields.io/badge/E--mail-chasovnikovsn@gmail.com-orange?style=for-the-badge&logo=appveyo)
-![](https://www.codewars.com/users/chsergey80/badges/small)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/sergeyfromrussia)<br />
+![](https://img.shields.io/badge/E--mail-chasovnikovsn@gmail.com-orange?style=for-the-badge&logo=appveyo)<br />
+![](https://www.codewars.com/users/chsergey80/badges/small)<br />
 <br />
 
 ## My skill set 💻
