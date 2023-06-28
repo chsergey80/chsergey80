@@ -1,18 +1,16 @@
 ## About me 👋
-
 🔭 I am studying a web-development course at Practicum by Yandex <br />
 👯 I am looking for a job as a Frontend developer <br />
 <h2 align="center">Frontend developer from Russia <img src="https://usagif.com/wp-content/uploads/gifs/russian-flag-3.gif" height="15"/></h2>
 
-## 📫 How to reach me:
 
+## 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/sergeyfromrussia)
 ![](https://img.shields.io/badge/E--mail-chasovnikovsn@gmail.com-orange?style=for-the-badge&logo=appveyo)
 ![](https://www.codewars.com/users/Sergei_fe/badges/micro)
 
 
 ## My soft skill set 💻
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
@@ -26,6 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"  title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
 
 ## My activities
 [![GitHub Streak](https://streak-stats.demolab.com?user=chsergey80&hide_border=true)](https://git.io/streak-stats)
