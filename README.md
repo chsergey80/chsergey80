@@ -21,7 +21,7 @@
 *  Node.js,
 *  Express.js,  
 *  Webpack,  
-*  REST.
+*  REST API.
 *  GIT
 
 ## Моя активность
