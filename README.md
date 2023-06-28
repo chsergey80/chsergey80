@@ -27,6 +27,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-## Моя активность
+## My activities
 [![GitHub Streak](https://streak-stats.demolab.com?user=chsergey80&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chsergey80&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
