@@ -1,8 +1,7 @@
-## Hi there! 👋
+## About me 👋
 
 🔭 I am studying a web-development course at Practicum by Yandex <br />
 👯 I am looking for a job as a Frontend developer <br />
-
 <h2 align="center">Frontend developer from Russia <img src="https://usagif.com/wp-content/uploads/gifs/russian-flag-3.gif" height="15"/></h2>
 
 ## 📫 How to reach me:
