@@ -17,13 +17,11 @@
 *  CSS,
 *  JavaScript,
 *  Figma.
-  
-## I study
 *  React.js,
 *  Node.js,
 *  Express.js,  
 *  Webpack,  
-*  REST API.
+*  REST.
 
 ## Моя активность
 [![GitHub Streak](https://streak-stats.demolab.com?user=chsergey80&hide_border=true)](https://git.io/streak-stats)
