@@ -36,7 +36,7 @@
 </div>
 
 ##  My pet projects (GitHub pages)
-* 
+* https://chsergey80.github.io/russian-travel/
 
 
 ## My activities
