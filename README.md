@@ -35,6 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
 
+##  My pet projects (GitHub pages)
+* 
+
 
 ## My activities
 [![GitHub Streak](https://streak-stats.demolab.com?user=chsergey80&hide_border=true)](https://git.io/streak-stats)
