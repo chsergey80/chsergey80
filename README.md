@@ -7,12 +7,13 @@
 
 ## 📫 How to reach me:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/sergeyfromrussia)<br />
-![](https://img.shields.io/badge/E--mail-chasovnikovsn@gmail.com-orange?style=for-the-badge&logo=appveyo)<br />
-![](https://www.codewars.com/users/Sergei_fe/badges/micro)<br />
-<br />
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/sergeyfromrussia)
+![](https://img.shields.io/badge/E--mail-chasovnikovsn@gmail.com-orange?style=for-the-badge&logo=appveyo)
+![](https://www.codewars.com/users/Sergei_fe/badges/micro)
+
 
 ## My soft skill set 💻
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
