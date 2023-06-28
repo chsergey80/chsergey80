@@ -22,6 +22,7 @@
 *  Express.js,  
 *  Webpack,  
 *  REST.
+*  GIT
 
 ## Моя активность
 [![GitHub Streak](https://streak-stats.demolab.com?user=chsergey80&hide_border=true)](https://git.io/streak-stats)
