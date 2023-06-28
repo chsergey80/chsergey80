@@ -2,11 +2,11 @@
 
 🔭 I am studying a web-development course at Practicum by Yandex <br />
 👯 I am looking for a job as a Frontend developer <br />
+
 <h2 align="center">Frontend developer from Russia <img src="https://usagif.com/wp-content/uploads/gifs/russian-flag-3.gif" height="15"/></h2>
 
 ## 📫 How to reach me:
 
-* chasovnikovsn@gmail.com <br />
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/sergeyfromrussia)<br />
 ![](https://img.shields.io/badge/E--mail-chasovnikovsn@gmail.com-orange?style=for-the-badge&logo=appveyo)<br />
 ![](https://www.codewars.com/users/Sergei_fe/badges/micro)<br />
