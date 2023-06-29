@@ -37,6 +37,7 @@
 
 ##  My pet projects (GitHub pages)
 * https://chsergey80.github.io/russian-travel/
+* https://chsergey80.github.io/everland_team_3/
 
 
 ## My activities
